@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahad</h1>
 <h3 align="center">A passionate backend focused Full-Stack Developer</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -162,8 +164,6 @@
     </tbody>
 </table>-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
 </p>
 
