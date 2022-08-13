@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tanvir</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Sahad</h1>
+<h3 align="center">A passionate backend focused Full-Stack Developer</h3>
 
-<p align="left"><a href="https://twitter.com/tanvironair" target="blank"><img
-        alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
+<p align="left"><a href="https://twitter.com/dev_mrsahad" target="blank"><img
+        alt="sahad-dev" src="https://img.shields.io/twitter/follow/dev_mrsahad?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 Currently working at [Dorik](https://dorik.com/)
+- 🔭 Currently working at Self Learning. <!--[Dorik](https://dorik.com/)-->
 
-- 🌱 Currently learning **Full-text searching**
+- 🌱 Currently learning **System Design, Design Pattern, System Architecture, Microservices, engineering leadership**
 
-- 👯 I’m looking to collaborate on **Open-source node.js projects**
+- 👯 I’m looking to collaborate on **Open-source laravel, node.js projects**
 
-- 💬 Ask me about **node.js,JavaScript, Microservices, engineering culture, engineering leadership**
+- 💬 Ask me about **Web/App Development**
 
-- 📫 How to reach me [@tanvironair](https://www.twitter.com/tanvironair)
+- 📫 How to reach me [@dev_mrsahad](https://twitter.com/dev_mrsahad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
