@@ -57,13 +57,6 @@
                     width="40"/> </a>
         </td>
         <td>
-            <a href="https://nestjs.com" target="_blank"> <img
-                    alt="nestjs"
-                    height="40"
-                    src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nestjs/nestjs-plain-wordmark.svg"
-                    width="40"/> </a>
-        </td>
-        <td>
             <a
                     href="https://www.mongodb.com/" target="_blank"> <img
                     alt="mongodb"
@@ -95,16 +88,8 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 width="40"/> </a>
         </td>
-        <td><a href="https://mochajs.org" target="_blank"> <img
-                alt="mocha" height="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40"/>
-        </a></td>
     </tr>
     <tr>
-        <td>
-            <a href="https://jestjs.io" target="_blank"> <img
-                    alt="jest" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
-            </a>
-        </td>
         <td>
             <a href="https://www.docker.com/" target="_blank"> <img
                     alt="docker"
