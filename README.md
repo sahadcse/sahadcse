@@ -17,26 +17,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/tanvironair" target="blank"><img align="center"
+    <a href="https://twitter.com/dev_mrsahad" target="blank"><img align="center"
                                                                   alt="tanvironair"
                                                                   height="30"
                                                                   src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
                                                                   width="40"/></a>
-    <a href="https://linkedin.com/in/tanvironair" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/sahaduzzaman-cse/" target="blank"><img align="center"
                                                                       alt="tanvironair"
                                                                       height="30"
                                                                       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
                                                                       width="40"/></a>
-    <a href="https://fb.com/tanvironair" target="blank"><img align="center"
+    <a href="https://www.facebook.com/sahad.cse" target="blank"><img align="center"
                                                              alt="tanvironair"
                                                              height="30"
                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
                                                              width="40"/></a>
-    <a href="https://instagram.com/tanvironair" target="blank"><img align="center"
-                                                                    alt="tanvironair"
-                                                                    height="30"
-                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-                                                                    width="40"/></a>
 </p>
 
 <table>
