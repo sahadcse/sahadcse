@@ -65,7 +65,7 @@
 </p>
 
 ## 📧 For Business Inquiries 
-![mail](https://img.shields.io/badge/Gmail-003545?style=flat-square&logo=gmail&logoColor=white)  ► sahaduzzaman.cse@gmail.com
+📨 sahaduzzaman.cse@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahadcse&layout=compact)
 
