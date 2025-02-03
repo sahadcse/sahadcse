@@ -17,6 +17,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![CPP](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=mongodb&logoColor=white)
