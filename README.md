@@ -108,6 +108,10 @@
 ## 📧 For Business Inquiries 
 📨 sahaduzzaman.cse@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahadcse&layout=compact)
+<!--
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahadcse&show_icons=true&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/sahadcse) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahadcse&layout=compact)
+-->
+![Profile views](https://gpvc.arturio.dev/sahadcse)
