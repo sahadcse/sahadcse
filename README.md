@@ -113,5 +113,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahadcse&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahadcse&layout=compact)
--->
 ![Profile views](https://gpvc.arturio.dev/sahadcse)
+-->
+<img  align="right" src="https://komarev.com/ghpvc/?username=sahadcse&label=Profile%20views&color=green&style=flat" alt="sahadcse" />
