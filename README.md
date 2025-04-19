@@ -89,28 +89,24 @@
   - (Feb 2025 - Present, Remote, South Korea)
 - Completed complex Projects: Delivered Online Doctor Consultation Platform, Mini-Shop E-Commerce, and more.
 - **Projects Link**
-  - [ODCP](https://odcp-s.netlify.app/)
-  - [BOOKING](travellast.netlify.app/)
-  - [E-COMMERCE](https://minishopbd.netlify.app/)
-
-  
-- [Portfolio](https://sahad.vercel.app)
+  - Project 1: [ODCP](https://odcp-s.netlify.app/)
+  - Project 2: [BOOKING](travellast.netlify.app/)
+  - Project 3: [E-COMMERCE](https://minishopbd.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/dev_mrsahad" target="blank">
-            <img align="center" alt="dev_mrsahad" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="40"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sahaduzzaman-cse/" target="blank">
-            <img align="center" alt="tanvironair" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="40"/>
-    </a>
-        <a href="mailto:sahaduzzaman.cse@gmail.com" target="blank">
-            <img align="center" alt="tanvironair" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="40"/>
-    </a>
-</p>
+ <div id="badges">
+   <a href="https://www.linkedin.com/in/sahaduzzaman-cse/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/dev_mrsahad" target="blank">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+   <a href="https://sahad.vercel.app" target="blank">
+     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge" />
+  </a>
+ </div>
 
 ## 📧 For Business Inquiries 
 - 📨 sahaduzzaman.cse@gmail.com
-- [Portfolio](https://sahad.vercel.app)
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=sahadcse&label=Profile%20views&color=green&style=flat" alt="sahadcse" />
+
